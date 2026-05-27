@@ -1,4 +1,4 @@
 # apna-collegedemo
 this is my first repository.
 <br>
-author-shivangi
+author-shivangi(apna college)
